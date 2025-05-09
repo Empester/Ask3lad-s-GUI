@@ -1,9 +1,7 @@
 # Ask3lad's GUI  
 **Ask3lad Test Drive GUI v1.1 Live Build for War Thunder**
 
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1332631622758957078/1365594862266613801/Test_Drive_Features.gif?ex=681f0452&is=681db2d2&hm=172b07d24f6a444e27b01acedf10b79f1a8e6a2fe281ce070ad7885c2af4656d&=&width=688&height=160" alt="Test Drive Features">
-</p>
+
 
 ---
 
@@ -32,9 +30,7 @@
 - Aircraft Respawn After Destruction  
 - Active Protection Testing Zone  
 
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1332631622758957078/1365595078072205352/Active_Protection_GIF.gif?ex=681f0486&is=681db306&hm=3bf2e35892f355fef42742a23a6306b03b3bf47dfb64652b1ed69a955c4b1787&" alt="Active Protection Demo">
-</p>
+
 
 ---
 
@@ -56,9 +52,7 @@
 3. (If prompted) Locate the **`Assets`** folder.
 4. Select the vehicle you want to test drive, then click **"Apply"**
 
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1332631622758957078/1365595310822395915/image.png?ex=681f04bd&is=681db33d&hm=dd5d030ba6f4c621af3e3c8bf5625b2072ebe08483c8fc422a66fb834250e492&" alt="Vehicle Selector Screenshot">
-</p>
+
 
 ---
 
